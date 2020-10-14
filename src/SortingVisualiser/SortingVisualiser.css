@@ -1,0 +1,21 @@
+.bar{
+  width: 30px;
+  display: inline-block;
+  background-color: aquamarine;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 0;
+  padding: 5px;
+}
+.array-container{
+  position: absolute;
+  left: 100px;
+  bottom:10%
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
