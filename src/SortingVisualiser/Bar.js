@@ -5,7 +5,7 @@ function Bar({height, index}){
   <div 
     style={{height: `${height}px`}} 
     className = "bar" 
-    key = {index}>
+    key = {index}>{height}
   </div>
   )
 }
